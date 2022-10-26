@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://i.gifer.com/7W7E.gif"/>
+</div>
+
 <!--
 **gursimar03/gursimar03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
