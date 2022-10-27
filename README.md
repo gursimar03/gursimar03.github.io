@@ -1,8 +1,17 @@
-### Hellooo World!!
+<h1 align="center">Hellooo World!!</h1>
 
 <div id="header" align="center">
+  
   <img src="https://media.tenor.com/D5QVYSPmpmAAAAAC/anime-keyboard-typing-keyboard-anime.gif"/>
+ 
+
 </div>
+
+<div align="center">
+   <br/><br/>
+ 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gursimar03&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
