@@ -7,10 +7,6 @@
 
 </div>
 
-<div align="center">
-   <br/><br/>
- 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gursimar03&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
