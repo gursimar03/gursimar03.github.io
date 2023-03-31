@@ -1,28 +1,24 @@
-<h1 align="center">Hellooo World!!</h1>
+<!-- Header -->
+<p align="center">
+  <img src="https://wallpaperaccess.com/full/849790.gif" >
+</p>
+<h1 align="center">Hello World! 👋</h1>
 
-<div id="header" align="center">
-  
-  <img src="https://wallpaperaccess.com/full/849790.gif"/>
- 
+<!-- Intro -->
+<p align="center">
+  Hi, I'm Gursimar! I'm a Student based in Dundalk. I enjoy Coding/Gaming and I'm always learning new technologies.
+</p>
 
-</div>
-<div align="center">
+<!-- Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gursimar03&show_icons=true&theme=radical" alt="GitHub Stats">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gursimar03&layout=compact&theme=radical" alt="Top Languages">
+</p>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gursimar03&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
-<!--
-**gursimar03/gursimar03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Social -->
+<p align="center">
+  <a href="[https://www.linkedin.com/in/your-linkedin-username/](https://www.linkedin.com/in/gursimar-singh-ply-8600431ba/)"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
+ </a>
+  <a href="mailto:gursimar03@gmail.com"><img src="https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"></a>
+</p>
